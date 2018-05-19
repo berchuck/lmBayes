@@ -1,0 +1,593 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Desktop/lmBayes/src/SampleBeta.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "SampleBeta(arma::vec, arma::mat, double, arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleBeta#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#d#S1_#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Desktop/lmBayes/src/SampleBeta.cpp",
+        "file_last_write" : 1526676642
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Desktop/lmBayes/src/SampleSigma2.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "SampleSigma2(arma::vec, arma::mat, arma::vec, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleSigma2#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S0_#d#d#I#"
+            }
+        ],
+        "file" : "/Users/Sam/Desktop/lmBayes/src/SampleSigma2.cpp",
+        "file_last_write" : 1526676636
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Desktop/lmBayes/src/lm.cpp",
+                "kind" : 6,
+                "line" : 25,
+                "name" : "lm(arma::vec, arma::mat, Rcpp::List, Rcpp::List, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@lm#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S2_#I#"
+            }
+        ],
+        "file" : "/Users/Sam/Desktop/lmBayes/src/lm.cpp",
+        "file_last_write" : 1526741315
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Desktop/lmBayes/src/lmBayes.h",
+        "file_last_write" : 1526676562
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Desktop/lmBayes/src/rInverseGamma.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "rInverseGamma(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@rInverseGamma#d#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Desktop/lmBayes/src/rInverseGamma.cpp",
+        "file_last_write" : 1526676653
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Desktop/lmBayes/src/rMVN.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "rMVN(int, arma::vec, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@rMVN#I#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Desktop/lmBayes/src/rMVN.cpp",
+        "file_last_write" : 1526676590
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Circumference.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "Circumference(arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@Circumference#$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Circumference.cpp",
+        "file_last_write" : 1463341412
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Circumference.h",
+        "file_last_write" : 1463341035
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Euclidean.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "Euclidean(arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@Euclidean#$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Euclidean.cpp",
+        "file_last_write" : 1463340915
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Euclidean.h",
+        "file_last_write" : 1463336934
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/H.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "H(double, arma::mat, std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@H#d#$@N@arma@C@Mat>#d#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/H.cpp",
+        "file_last_write" : 1463343924
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/H.h",
+        "file_last_write" : 1463343128
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 21,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/LoadCSV.cpp",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "LoadCSV(std::string, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@LoadCSV#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#I#I#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/LoadCSV.cpp",
+        "file_last_write" : 1463327448
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/LoadCSV.h",
+        "file_last_write" : 1463327288
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/PilotAdaptation.cpp",
+                "kind" : 6,
+                "line" : 3,
+                "name" : "PilotAdaptation(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@PilotAdaptation#d#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/PilotAdaptation.cpp",
+        "file_last_write" : 1463333155
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/PilotAdaptation.h",
+        "file_last_write" : 1463333172
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "dimC(NumericMatrix)",
+                "parent_name" : "",
+                "usr" : "c:@F@dimC#$@N@Rcpp@C@Matrix>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 27,
+                "name" : "identity(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@identity#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 34,
+                "name" : "Zeros(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Zeros#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 41,
+                "name" : "Lists(Rcpp::List)",
+                "parent_name" : "",
+                "usr" : "c:@F@Lists#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 47,
+                "name" : "MatDist(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@MatDist#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 61,
+                "name" : "Unique(arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@Unique#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 67,
+                "name" : "CreateW(arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@CreateW#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 87,
+                "name" : "Lists2(Rcpp::List)",
+                "parent_name" : "",
+                "usr" : "c:@F@Lists2#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 102,
+                "name" : "Test",
+                "parent_name" : "",
+                "usr" : "c:@F@Test#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 109,
+                "name" : "Seq(int, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Seq#I#I#I#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 122,
+                "name" : "CreateFile(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@CreateFile#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 139,
+                "name" : "AddtoFile(arma::vec, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@AddtoFile#$@N@arma@C@Col>#d#d#d#d#"
+            },
+            {
+                "column" : 13,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 157,
+                "name" : "GetWD",
+                "parent_name" : "",
+                "usr" : "c:@F@GetWD#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 167,
+                "name" : "InRange(int, NumericVector)",
+                "parent_name" : "",
+                "usr" : "c:@F@InRange#I#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 173,
+                "name" : "ReadIn(std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@ReadIn#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+                "kind" : 6,
+                "line" : 181,
+                "name" : "TestBool(std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@TestBool#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/Play.cpp",
+        "file_last_write" : 1463344100
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleBeta.cpp",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "SampleBeta(arma::vec, arma::mat, double, arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleBeta#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#d#S1_#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleBeta.cpp",
+        "file_last_write" : 1467223487
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleBeta.h",
+        "file_last_write" : 1462746488
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleBetaSP.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "SampleBetaSP(double, double, double, double, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleBetaSP#d#d#d#d#$@N@arma@C@Mat>#d#S0_#S0_#S0_#S0_#S0_#S0_#S0_#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleBetaSP.cpp",
+        "file_last_write" : 1463343191
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleBetaSP.h",
+        "file_last_write" : 1463343210
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SamplePhiSP.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "SamplePhiSP(arma::mat, double, double, double, double, double, double, double, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@SamplePhiSP#$@N@arma@C@Mat>#d#d#d#d#d#d#d#d#S0_#S0_#S0_#S0_#S0_#S0_#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SamplePhiSP.cpp",
+        "file_last_write" : 1463343242
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SamplePhiSP.h",
+        "file_last_write" : 1463343256
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleSigma2.cpp",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "SampleSigma2(arma::vec, arma::mat, arma::vec, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleSigma2#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S0_#d#d#I#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleSigma2.cpp",
+        "file_last_write" : 1462746502
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleSigma2.h",
+        "file_last_write" : 1462746513
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleSigma2SP.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "SampleSigma2SP(arma::mat, double, double, double, double, double, double, double, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleSigma2SP#$@N@arma@C@Mat>#d#d#d#d#d#d#d#d#S0_#S0_#S0_#S0_#S0_#S0_#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleSigma2SP.cpp",
+        "file_last_write" : 1463343290
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleSigma2SP.h",
+        "file_last_write" : 1463343305
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleTau2SP.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "SampleTau2SP(arma::mat, double, double, double, double, double, double, double, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, arma::mat, std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleTau2SP#$@N@arma@C@Mat>#d#d#d#d#d#d#d#d#S0_#S0_#S0_#S0_#S0_#S0_#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleTau2SP.cpp",
+        "file_last_write" : 1463343325
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/SampleTau2SP.h",
+        "file_last_write" : 1463343338
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lmBayes.cpp",
+                "kind" : 6,
+                "line" : 8,
+                "name" : "lmBayes(arma::vec, arma::mat, Rcpp::List, Rcpp::List, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@lmBayes#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S2_#I#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lmBayes.cpp",
+        "file_last_write" : 1467309593
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lndInverseGamma.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "lndInverseGamma(double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@lndInverseGamma#d#d#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lndInverseGamma.cpp",
+        "file_last_write" : 1463257777
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lndInverseGamma.h",
+        "file_last_write" : 1463257946
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lndMvn.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "lndMvn(const arma::vec &, const arma::vec &, const arma::mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@lndMvn#&1$@N@arma@C@Col>#d#S0_#&1$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lndMvn.cpp",
+        "file_last_write" : 1463256378
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/lndMvn.h",
+        "file_last_write" : 1463256218
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rInverseGamma.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "rInverseGamma(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@rInverseGamma#d#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rInverseGamma.cpp",
+        "file_last_write" : 1462715592
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rInverseGamma.h",
+        "file_last_write" : 1462716902
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rMVN.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "rMVN(int, arma::vec, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@rMVN#I#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rMVN.cpp",
+        "file_last_write" : 1462672137
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rMVN.h",
+        "file_last_write" : 1462670078
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rcpp_hello.cpp",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "rcpp_hello",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpp_hello#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/rcpp_hello.cpp",
+        "file_last_write" : 1464736639
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 21,
+                "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/spLM.cpp",
+                "kind" : 6,
+                "line" : 12,
+                "name" : "spLM(arma::mat, arma::mat, arma::mat, Rcpp::List, Rcpp::List, Rcpp::List, Rcpp::List, std::string)",
+                "parent_name" : "",
+                "usr" : "c:@F@spLM#$@N@arma@C@Mat>#d#S0_#S0_#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S1_#S1_#S1_#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#"
+            }
+        ],
+        "file" : "/Users/Sam/Documents/Sam/School/Graduate/Packages/lmBayesRcpp/src/spLM.cpp",
+        "file_last_write" : 1463342994
+    }
+]
