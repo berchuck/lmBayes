@@ -1,0 +1,13 @@
+Package: lmBayes
+Type: Package
+Title: Bayesian Linear Regression
+Version: 1.0
+Authors@R: person("Samuel I.", "Berchuck", email = "sib2@duke.edu", role = c("aut", "cre"))
+Description: Bayesian linear regression.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports:
+    Rcpp (>= 0.12.5)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 5.0.1

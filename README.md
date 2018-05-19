@@ -1,1 +1,3 @@
 # lmBayes
+
+Bayesian linear regression.
