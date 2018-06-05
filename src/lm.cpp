@@ -14,14 +14,14 @@ arma::mat lm(arma::vec Y, arma::mat X, Rcpp::List Hypers, Rcpp::List Inits, int 
   arma::mat EyeP = arma::eye(p, p);
 
   //Initial Values
-  arma::vec Beta = Inits[0];
-  double Sigma2 = Inits[1];
+  arma::vec Beta = Rcpp::as<arma::vec>(Inits[0]);
+  double Sigma2 = Rcpp::as<double>(Inits[1]);
 
   //Hyperparameters
-  double SigmaBeta2 = Hypers[0];
-  arma::vec Sigma2Hypers = Hypers[1];
-  double Alpha = Sigma2Hypers[0];
-  double Theta = Sigma2Hypers[1];
+  double SigmaBeta2 = Rcpp::as<double>(Hypers[0]);
+  arma::vec Sigma2Hypers = Rcpp::as<arma::vec>(Hypers[1]);
+  double Alpha = arma::as_scalar(Sigma2Hypers[0]);
+  double Theta = arma::as_scalar(Sigma2Hypers[1]);
 
   //MCMC Objects
   arma::mat Out(p + 1, NSims);
